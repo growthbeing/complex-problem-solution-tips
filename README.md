@@ -1,5 +1,7 @@
 # Complex Problem Solution Tips :zap:
 
+![The Stacey Diagram](images-1.jpeg)
+
 There are several approaches that you can take to find a simple solution to a complex problem:
 
 - Break the problem down into smaller, more manageable pieces: By breaking the problem down into smaller parts, you can focus on solving one piece at a time, rather than trying to tackle the entire problem at once.
